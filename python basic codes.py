@@ -367,8 +367,3 @@ if are_brackets_valid(expr):
     print("Valid")
 else:
     print("Not Valid")
-
-
-
-
-
